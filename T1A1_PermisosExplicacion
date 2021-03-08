@@ -1,0 +1,9 @@
+Funcion de los permisos:
+
+La funcion del permiso para el propietario en la parte de "List file only" restringe el acceso a la carpeta. Se tiene que introducir la contrase;a del propietario original para poder acceder a las carpetas. En tanto a los archivos, se requiere la contrase;a del propietario y una vez ingresada, solo se puede visualizar el archivo por unos segundo puesto que se cierra en automatico el archivo. 
+
+En el permiso de "Access file" Se tiene permiso de por el propietario unicamente en ingresar a las carpetas y archivos.
+
+En ""create and delete files se tienen permiso de acceso a las carpetas y archivos tanto al propietario como al usuario. 
+
+NOTA: En la maquina dodne se tiene instalada la particion del sistema operativo Linux de Ubuntu, el teclado de dicha maquina vienen de fabrica en el sistema ingles, asi que se decidio instalar Ubuntu en ingles para mayor facilidad de trabajo en los codigo de programacion. Dado que se tiene el teclado en ingles, se es dificil escribir las palabras con acentos, asi como la letra n con aureola. 
